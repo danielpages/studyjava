@@ -1,6 +1,6 @@
 package ch3;
 
-public class OpertorEx15 {
+public class OperatorEx15 {
 
 	public static void main(String[] args) {
 		char lowerCase = 'a';
