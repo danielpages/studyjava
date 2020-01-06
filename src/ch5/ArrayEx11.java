@@ -2,7 +2,7 @@ package ch5;
 
 public class ArrayEx11 {
 
-	public static void main(String[] argrs) {
+	public static void main(String[] args) {
 		int[] numArr = new int[10];
 		int[] counter = new int[10];
 		

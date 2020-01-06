@@ -2,7 +2,7 @@ package ch5;
 
 public class ArrayEx13 {
 
-	public static void main(String[] argrs) {
+	public static void main(String[] args) {
 		char[] hex = {'C', 'A', 'F', 'E'};
 		
 		String[] binary = {"0000", "0001", "0010", "0011",

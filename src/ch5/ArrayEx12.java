@@ -2,7 +2,7 @@ package ch5;
 
 public class ArrayEx12 {
 
-	public static void main(String[] argrs) {
+	public static void main(String[] args) {
 		String[] names = {"Kim", "Park", "Yi"};
 		
 		for(int i = 0; i < names.length; i++) {

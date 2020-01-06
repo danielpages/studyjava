@@ -1,7 +1,8 @@
+package ch5;
 
 public class ArrayEx5 {
 
-	public static void main(String[] argrs) {
+	public static void main(String[] args) {
 		int sum = 0;
 		float average = 0f;
 		
