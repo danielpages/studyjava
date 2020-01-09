@@ -2,7 +2,7 @@ package ch5;
 
 public class ArrayEx6 {
 
-	public static void main(String[] argrs) {
+	public static void main(String[] args) {
 		int[] score = {79, 88, 91, 33, 100, 55, 95};
 		
 		int max = score[0];

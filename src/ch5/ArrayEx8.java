@@ -2,7 +2,7 @@ package ch5;
 
 public class ArrayEx8 {
 
-	public static void main(String[] argrs) {
+	public static void main(String[] args) {
 		int[] ball = new int[45];
 		
 		for(int i = 0; i < ball.length; i++) {
